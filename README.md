@@ -2,10 +2,15 @@
 A simple and efficient Spring Boot REST API designed to manage student information using full CRUD operations.
 
 ⚡ Built with Java, Spring Boot, Spring Data JPA, and MySQL for smooth database interaction.
+
 ➕ Add a new student, 📄 retrieve all students, 🔍 fetch by ID, ✏️ update details, ❌ delete records.
+
 🏗️ Follows a layered architecture: controller, service, repository, model, and main.
+
 🌐 REST endpoints include POST /students, GET /students, GET /students/{id}, PUT /students/{id}, DELETE /students/{id}.
+
 🧪 Easily test APIs using Postman with JSON request bodies for POST and PUT.
+
 🗄️ MySQL configuration handled via application.properties.
 
 Screenshots :
